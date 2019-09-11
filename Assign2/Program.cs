@@ -12,6 +12,7 @@ namespace Assign2
                 Console.WriteLine(i);
                 Console.WriteLine("Second commit is here");
             }
+            Console.WriteLine("New feature in the new branch.");
         }
     }
 }
